@@ -1,6 +1,6 @@
 # Baostock MCP Server
 
-这是一个简单的 MCP (Model Context Protocol) 服务器示例，演示如何使用 Python 和 Baostock 库创建 MCP 工具来访问A股股票数据。
+使用FastMCP和baoStock创建的MCP服务器。baoStock是一个免费、开源的证券数据平台，无需apikey。
 
 ## 功能
 
